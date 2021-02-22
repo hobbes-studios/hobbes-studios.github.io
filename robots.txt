@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.hobbesstudios.com/sitemap.xml
+Host: https://www.hobbesstudios.com
