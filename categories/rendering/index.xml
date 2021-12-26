@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rendering on Hobbes Studios</title>
+    <link>https://hobbesstudios.com/categories/rendering/</link>
+    <description>Recent content in Rendering on Hobbes Studios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Hobbes Studios</copyright>
+    <lastBuildDate>Sun, 12 May 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hobbesstudios.com/categories/rendering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Blends</title>
+      <link>https://hobbesstudios.com/portfolio/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://hobbesstudios.com/portfolio/project-2/</guid>
+      <description>A small collection of old test renders for basic lighting techniques on a low-poly procedurally generated model.</description>
+    </item>
+    
+  </channel>
+</rss>

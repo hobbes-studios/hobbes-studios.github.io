@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Hobbes Studios</title>
+    <link>https://hobbesstudios.com/categories/games/</link>
+    <description>Recent content in Games on Hobbes Studios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020-2022 Hobbes Studios</copyright>
+    <lastBuildDate>Tue, 28 Sep 2021 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hobbesstudios.com/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UDLR</title>
+      <link>https://hobbesstudios.com/portfolio/project-1/</link>
+      <pubDate>Tue, 28 Sep 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://hobbesstudios.com/portfolio/project-1/</guid>
+      <description>A fast paced maze runner. Race against the clock with limited resources to escape to the next stage.</description>
+    </item>
+    
+    <item>
+      <title>Where&#39;s Snowball?</title>
+      <link>https://hobbesstudios.com/portfolio/project-3/</link>
+      <pubDate>Wed, 22 Sep 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://hobbesstudios.com/portfolio/project-3/</guid>
+      <description>The easiest way to time travel is to do nothing. Where&amp;rsquo;s Snowball is a first-person stroll through a backseat personality looking for his lost friend.</description>
+    </item>
+    
+    <item>
+      <title>Grilling Simulator</title>
+      <link>https://hobbesstudios.com/portfolio/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://hobbesstudios.com/portfolio/project-2/</guid>
+      <description>&amp;quot;Hill?! What hill?! I don&amp;rsquo;t see a hill!!&amp;ldquo; Project Details Flip burgers, sear steaks, harass your neighbors, and avoid the wife.</description>
+    </item>
+    
+  </channel>
+</rss>
